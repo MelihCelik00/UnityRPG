@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Knight\scripts\rotator.cs" />
+     <Compile Include="Assets\Scripts\Camera\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerOnClick.cs" />
      <None Include="Assets\Knight\shaders\doublesidedshader.shader" />
  <Reference Include="Unity.Timeline.Editor">
